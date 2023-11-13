@@ -1,0 +1,10 @@
+D:\University Courses\Visual Studio\Q1.1\Q1.1\obj\Debug\Q1.1.csproj.AssemblyReference.cache
+D:\University Courses\Visual Studio\Q1.1\Q1.1\obj\Debug\Q1._1.Form1.resources
+D:\University Courses\Visual Studio\Q1.1\Q1.1\obj\Debug\Q1._1.Properties.Resources.resources
+D:\University Courses\Visual Studio\Q1.1\Q1.1\obj\Debug\Q1.1.csproj.GenerateResource.cache
+D:\University Courses\Visual Studio\Q1.1\Q1.1\obj\Debug\Q1.1.csproj.CoreCompileInputs.cache
+D:\University Courses\Visual Studio\Q1.1\Q1.1\bin\Debug\Q1.1.exe.config
+D:\University Courses\Visual Studio\Q1.1\Q1.1\bin\Debug\Q1.1.exe
+D:\University Courses\Visual Studio\Q1.1\Q1.1\bin\Debug\Q1.1.pdb
+D:\University Courses\Visual Studio\Q1.1\Q1.1\obj\Debug\Q1.1.exe
+D:\University Courses\Visual Studio\Q1.1\Q1.1\obj\Debug\Q1.1.pdb

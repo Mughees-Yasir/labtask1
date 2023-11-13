@@ -1,0 +1,10 @@
+D:\University Courses\Visual Studio\Q3\Q3\bin\Debug\Q3.exe.config
+D:\University Courses\Visual Studio\Q3\Q3\bin\Debug\Q3.exe
+D:\University Courses\Visual Studio\Q3\Q3\bin\Debug\Q3.pdb
+D:\University Courses\Visual Studio\Q3\Q3\obj\Debug\Q3.csproj.AssemblyReference.cache
+D:\University Courses\Visual Studio\Q3\Q3\obj\Debug\Q3.Form1.resources
+D:\University Courses\Visual Studio\Q3\Q3\obj\Debug\Q3.Properties.Resources.resources
+D:\University Courses\Visual Studio\Q3\Q3\obj\Debug\Q3.csproj.GenerateResource.cache
+D:\University Courses\Visual Studio\Q3\Q3\obj\Debug\Q3.csproj.CoreCompileInputs.cache
+D:\University Courses\Visual Studio\Q3\Q3\obj\Debug\Q3.exe
+D:\University Courses\Visual Studio\Q3\Q3\obj\Debug\Q3.pdb
